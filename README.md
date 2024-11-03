@@ -1,3 +1,19 @@
+## Geeks IT Web App
+![Geeks - Verification page](https://github.com/user-attachments/assets/f961b5e0-90b1-4177-9b39-9c623570c18f)
+![Geeks - Verification page with verification status](https://github.com/user-attachments/assets/1cff0b42-0c72-405f-b715-203c33f35b17)
+![Geeks - User Management](https://github.com/user-attachments/assets/06741554-4177-444f-8373-7c747ffc3e6b)
+![Geeks - Sign up](https://github.com/user-attachments/assets/513c1055-143a-443d-9f5b-3a5b24d471a2)
+![Geeks - Sign in](https://github.com/user-attachments/assets/99b0c249-54d3-414c-ba24-d2f5186dc48d)
+![Geeks - Profile edit](https://github.com/user-attachments/assets/b4dd716a-d6d9-40da-9121-b8ed987b0685)
+![Geeks - Homepage](https://github.com/user-attachments/assets/66153d54-6cd4-4b00-964e-1535cb4937de)
+![Geeks - Documents](https://github.com/user-attachments/assets/729eb17f-2061-4bc6-8710-2e4aa4068c7b)
+![Geeks - Dashboard](https://github.com/user-attachments/assets/1ef2bd7f-6ccd-48d7-bdaa-cf1996ff36f4)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
